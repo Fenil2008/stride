@@ -1,0 +1,140 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="100dp"
+    android:viewportWidth="360"
+    android:viewportHeight="100">
+
+    <!-- Stride Pulse Pin Mark -->
+    <!-- Pin Head Outline -->
+    <path
+        android:strokeColor="#00E5C7"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 45,15
+                          A 20,20 0 1,1 30,48
+                          L 38,58
+                          M 45,15
+                          A 20,20 0 0,0 60,48
+                          L 52,58" />
+
+    <!-- Center Pin Dot -->
+    <path
+        android:fillColor="#00E5C7"
+        android:pathData="M 45,32
+                          m -5.5,0
+                          a 5.5,5.5 0 1,0 11,0
+                          a 5.5,5.5 0 1,0 -11,0" />
+
+    <!-- Pulse Line with Center Peak forming Pin Base -->
+    <path
+        android:strokeColor="#00E5C7"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 8,65
+                          L 28,65
+                          L 36,79
+                          L 45,50
+                          L 54,79
+                          L 62,65
+                          L 82,65" />
+
+    <!-- Wordmark STRIDE in bold italic sports typography (Color: #EAEAF0 OffWhite) -->
+    <!-- S -->
+    <path
+        android:fillColor="#EAEAF0"
+        android:pathData="M 120,38
+                          L 146,38
+                          L 144,46
+                          L 128,46
+                          L 126,52
+                          L 142,54
+                          C 146,55 148,58 147,63
+                          L 144,76
+                          L 116,76
+                          L 118,68
+                          L 135,68
+                          L 137,60
+                          L 122,58
+                          C 118,57 117,54 118,49
+                          Z" />
+
+    <!-- T -->
+    <path
+        android:fillColor="#EAEAF0"
+        android:pathData="M 149,38
+                          L 182,38
+                          L 180,46
+                          L 169,46
+                          L 163,76
+                          L 153,76
+                          L 159,46
+                          L 147,46
+                          Z" />
+
+    <!-- R -->
+    <path
+        android:fillColor="#EAEAF0"
+        android:pathData="M 183,38
+                          L 209,38
+                          C 217,38 221,42 219,51
+                          C 218,57 214,60 208,61
+                          L 216,76
+                          L 204,76
+                          L 197,63
+                          L 193,63
+                          L 190,76
+                          L 180,76
+                          Z
+                          M 195,46
+                          L 192,56
+                          L 203,56
+                          C 207,56 209,53 210,50
+                          C 210,47 208,46 204,46
+                          Z" />
+
+    <!-- I -->
+    <path
+        android:fillColor="#EAEAF0"
+        android:pathData="M 224,38
+                          L 235,38
+                          L 227,76
+                          L 216,76
+                          Z" />
+
+    <!-- D -->
+    <path
+        android:fillColor="#EAEAF0"
+        android:pathData="M 239,38
+                          L 263,38
+                          C 273,38 277,44 275,54
+                          C 273,65 267,76 256,76
+                          L 231,76
+                          Z
+                          M 249,46
+                          L 243,68
+                          L 253,68
+                          C 260,68 263,61 264,56
+                          C 265,51 263,46 257,46
+                          Z" />
+
+    <!-- E -->
+    <path
+        android:fillColor="#EAEAF0"
+        android:pathData="M 280,38
+                          L 311,38
+                          L 309,46
+                          L 294,46
+                          L 292,53
+                          L 305,53
+                          L 303,61
+                          L 290,61
+                          L 287,68
+                          L 303,68
+                          L 301,76
+                          L 272,76
+                          Z" />
+</vector>

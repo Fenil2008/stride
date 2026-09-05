@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919656902453",
+    "project_id": "stride-new-app",
+    "storage_bucket": "stride-new-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919656902453:android:1fab1dd740668a06b3667c",
+        "android_client_info": {
+          "package_name": "com.nexusstudios.stride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpqx8Qo6laMjPDCNgiCdhzGTjlZGgYWrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
