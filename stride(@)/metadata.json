@@ -1,6 +1,0 @@
-{
-  "name": "Stryde",
-  "description": "Production-grade GPS fitness tracker with real-time route recording, live stats, social feed, and liquid glass UI.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
