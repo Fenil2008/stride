@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stride Pulse Pin Mark: Pin Head + Center Dot + ECG Pulse Waveform -->
+    <!-- Pin Head Outline -->
+    <path
+        android:strokeColor="#00E5C7"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 54,26
+                          A 19,19 0 1,1 40,56
+                          L 48,65
+                          M 54,26
+                          A 19,19 0 0,0 68,56
+                          L 60,65" />
+
+    <!-- Center Pin Dot -->
+    <path
+        android:fillColor="#00E5C7"
+        android:pathData="M 54,42
+                          m -5.5,0
+                          a 5.5,5.5 0 1,0 11,0
+                          a 5.5,5.5 0 1,0 -11,0" />
+
+    <!-- ECG Pulse Line with Center Peak forming Pin Base -->
+    <path
+        android:strokeColor="#00E5C7"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 18,72
+                          L 38,72
+                          L 45,86
+                          L 54,58
+                          L 63,86
+                          L 70,72
+                          L 90,72" />
+</vector>
+
+
